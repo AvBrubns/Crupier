@@ -13,6 +13,12 @@ si se ejecuta desde consola se necesita las libreria:
 [Pyqt5][web] version 5.15.2
 [web]: https://pypi.org/project/PyQt5/ 
 
+Me llamo Javier Cristóbal y tengo un blog sobre [productividad mac][blog].
+
+En dicha [web][blog] recopilo artículos sobre todo lo relacionado con automatización, gestión y eficiencia.
+
+[blog]: http://limni.net/blog/
+
 ~~~
 python im_main.py 
 
