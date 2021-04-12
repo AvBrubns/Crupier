@@ -16,6 +16,7 @@ si se ejecuta desde consola se necesita las libreria:
 
 
 ~~~
+###Comandos a utilizar en la terminal 
 python im_main.py 
 
 or
