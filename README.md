@@ -8,9 +8,17 @@ Reglas del Crupier
 3. pieerde si el usuario falla en la seccion de su número 
 
 
-Ejecucion 
+Ejecución 
 si se ejecuta desde consola se necesita las libreria:
 Pyqt5
 
-Ejecicon de EXE, en la carpeta Output se encuentra
+~~~
+python im_main.py 
+
+or
+
+im_main.py
+~~~
+
+Ejecución de EXE, en la carpeta Output se encuentra
 
