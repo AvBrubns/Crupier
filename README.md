@@ -10,7 +10,7 @@ Reglas del Crupier
 
 Ejecución 
 si se ejecuta desde consola se necesita las libreria:
-Pyqt5
+[blog]: https://pypi.org/project/PyQt5/ 
 
 ~~~
 python im_main.py 
