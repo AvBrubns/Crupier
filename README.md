@@ -15,8 +15,8 @@ si se ejecuta desde consola se necesita las libreria:
 [web]: https://pypi.org/project/PyQt5/ 
 
 
+### Comando de terminal 
 ~~~
-###Comandos a utilizar en la terminal 
 python im_main.py 
 
 or
